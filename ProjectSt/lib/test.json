@@ -1,0 +1,662 @@
+[
+    {
+        "id": 1,
+        "name": "Langosh, Hagenes and Bosco",
+        "address": "60322 Ollie Circle Suite 500\nSouth Stevie, RI 69094-6737",
+        "phone_number": "1-918-717-9096",
+        "created_at": "2025-01-09T12:49:20.000000Z",
+        "updated_at": "2025-01-09T12:49:20.000000Z",
+        "products": []
+    },
+    {
+        "id": 2,
+        "name": "Wilderman Ltd",
+        "address": "526 Gaylord Crossroad Suite 412\nLake Alyssonside, RI 09377",
+        "phone_number": "989-582-6553",
+        "created_at": "2025-01-09T12:49:20.000000Z",
+        "updated_at": "2025-01-09T12:49:20.000000Z",
+        "products": []
+    },
+    {
+        "id": 3,
+        "name": "Bailey and Sons",
+        "address": "790 Huel Divide Suite 817\nGreenhaven, AK 53582-2157",
+        "phone_number": "(225) 293-5330",
+        "created_at": "2025-01-09T12:49:20.000000Z",
+        "updated_at": "2025-01-09T12:49:20.000000Z",
+        "products": []
+    },
+    {
+        "id": 4,
+        "name": "Botsford and Sons",
+        "address": "77060 Lexie Pine Apt. 971\nLake Zackeryburgh, AL 07934-4705",
+        "phone_number": "+1-859-467-0390",
+        "created_at": "2025-01-09T12:49:20.000000Z",
+        "updated_at": "2025-01-09T12:49:20.000000Z",
+        "products": []
+    },
+    {
+        "id": 5,
+        "name": "Mann PLC",
+        "address": "84962 Dare Port\nGeoffreybury, KS 15126",
+        "phone_number": "(469) 482-2085",
+        "created_at": "2025-01-09T12:49:20.000000Z",
+        "updated_at": "2025-01-09T12:49:20.000000Z",
+        "products": []
+    },
+    {
+        "id": 6,
+        "name": "Raynor-Marvin",
+        "address": "88347 Felicity Field Suite 021\nZiemebury, ID 95157-8996",
+        "phone_number": "479.412.8206",
+        "created_at": "2025-01-09T12:49:20.000000Z",
+        "updated_at": "2025-01-09T12:49:20.000000Z",
+        "products": []
+    },
+    {
+        "id": 7,
+        "name": "Stroman-Hirthe",
+        "address": "8517 Destinee Stravenue Apt. 113\nWest Alfreda, NH 10490-7448",
+        "phone_number": "1-860-304-1601",
+        "created_at": "2025-01-09T12:49:20.000000Z",
+        "updated_at": "2025-01-09T12:49:20.000000Z",
+        "products": []
+    },
+    {
+        "id": 8,
+        "name": "Larson PLC",
+        "address": "1257 Kelsi Trail Apt. 887\nLake Camille, OH 33597-6678",
+        "phone_number": "518.965.3387",
+        "created_at": "2025-01-09T12:49:20.000000Z",
+        "updated_at": "2025-01-09T12:49:20.000000Z",
+        "products": []
+    },
+    {
+        "id": 9,
+        "name": "Schuppe Inc",
+        "address": "70617 Oberbrunner Crossing\nBlandastad, AK 03099-8647",
+        "phone_number": "859-268-3843",
+        "created_at": "2025-01-09T12:49:20.000000Z",
+        "updated_at": "2025-01-09T12:49:20.000000Z",
+        "products": []
+    },
+    {
+        "id": 10,
+        "name": "Osinski LLC",
+        "address": "65249 Hamill Trace\nWest Paulaburgh, WA 65627",
+        "phone_number": "332-662-5463",
+        "created_at": "2025-01-09T12:49:20.000000Z",
+        "updated_at": "2025-01-09T12:49:20.000000Z",
+        "products": []
+    },
+    {
+        "id": 11,
+        "name": "Hettinger, Wunsch and Jacobi",
+        "address": "25460 Sipes Flat Apt. 054\nNorth Kaleyland, GA 63913",
+        "phone_number": "1-341-848-9957",
+        "created_at": "2025-01-09T12:49:24.000000Z",
+        "updated_at": "2025-01-09T12:49:24.000000Z",
+        "products": [
+            {
+                "id": 11,
+                "name": "Pfeffer Inc",
+                "description": "Fugiat iusto atque aspernatur et ut veritatis voluptatem. Ea tempore dolorum ea. Et nihil accusamus sed iste.",
+                "price": "42.20",
+                "stock": 318,
+                "popularity": 0,
+                "created_at": "2025-01-09T12:49:24.000000Z",
+                "updated_at": "2025-01-09T12:49:24.000000Z",
+                "pivot": {
+                    "store_id": 11,
+                    "product_id": 11
+                }
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "name": "Steuber, Doyle and Kemmer",
+        "address": "857 Goodwin Falls\nLeopoldoborough, LA 56481-4968",
+        "phone_number": "828.499.5651",
+        "created_at": "2025-01-09T12:49:24.000000Z",
+        "updated_at": "2025-01-09T12:49:24.000000Z",
+        "products": [
+            {
+                "id": 12,
+                "name": "Eichmann-Schaden",
+                "description": "Exercitationem aperiam est dolor possimus quam. Dolores pariatur ad qui est culpa. Alias quia voluptatem quaerat numquam veritatis laudantium beatae.",
+                "price": "58.85",
+                "stock": 720,
+                "popularity": 0,
+                "created_at": "2025-01-09T12:49:24.000000Z",
+                "updated_at": "2025-01-09T12:49:24.000000Z",
+                "pivot": {
+                    "store_id": 12,
+                    "product_id": 12
+                }
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "name": "Schultz Inc",
+        "address": "961 Klocko Flats Apt. 713\nPort Chanelport, FL 98677",
+        "phone_number": "(816) 476-4647",
+        "created_at": "2025-01-09T12:49:24.000000Z",
+        "updated_at": "2025-01-09T12:49:24.000000Z",
+        "products": [
+            {
+                "id": 13,
+                "name": "Orn, Mraz and Blanda",
+                "description": "Accusantium nihil nihil sunt ex. Doloremque aut qui odit qui rerum in quod. Quam nisi quia aspernatur quod quae.",
+                "price": "62.15",
+                "stock": 593,
+                "popularity": 0,
+                "created_at": "2025-01-09T12:49:24.000000Z",
+                "updated_at": "2025-01-09T12:49:24.000000Z",
+                "pivot": {
+                    "store_id": 13,
+                    "product_id": 13
+                }
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "name": "Heller, Runolfsson and Kris",
+        "address": "8693 Quitzon Place Apt. 155\nRatketown, CO 15975-8091",
+        "phone_number": "814-748-3458",
+        "created_at": "2025-01-09T12:49:24.000000Z",
+        "updated_at": "2025-01-09T12:49:24.000000Z",
+        "products": [
+            {
+                "id": 14,
+                "name": "Kautzer, Bartoletti and Ondricka",
+                "description": "Velit molestiae blanditiis eius quos consequatur ea minus. Sit nobis dolor cupiditate fuga laudantium aut.",
+                "price": "60.91",
+                "stock": 87,
+                "popularity": 0,
+                "created_at": "2025-01-09T12:49:24.000000Z",
+                "updated_at": "2025-01-09T12:49:24.000000Z",
+                "pivot": {
+                    "store_id": 14,
+                    "product_id": 14
+                }
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "name": "Jacobson Group",
+        "address": "3467 Spinka Forge Apt. 912\nShakiraview, AL 38824",
+        "phone_number": "+1-786-494-4476",
+        "created_at": "2025-01-09T12:49:24.000000Z",
+        "updated_at": "2025-01-09T12:49:24.000000Z",
+        "products": [
+            {
+                "id": 15,
+                "name": "Thiel-Weissnat",
+                "description": "Qui non possimus et repellendus sint in. Nulla dolor sunt molestias et recusandae fugiat. Quos eius perspiciatis vero nam pariatur pariatur repudiandae sed. Quaerat modi quis animi nihil atque qui blanditiis.",
+                "price": "18.34",
+                "stock": 161,
+                "popularity": 0,
+                "created_at": "2025-01-09T12:49:24.000000Z",
+                "updated_at": "2025-01-09T12:49:24.000000Z",
+                "pivot": {
+                    "store_id": 15,
+                    "product_id": 15
+                }
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "name": "Jacobson PLC",
+        "address": "59427 Rosemary Fords Apt. 123\nO'Connelltown, DC 69037",
+        "phone_number": "425-542-4384",
+        "created_at": "2025-01-09T12:49:24.000000Z",
+        "updated_at": "2025-01-09T12:49:24.000000Z",
+        "products": [
+            {
+                "id": 16,
+                "name": "Dicki PLC",
+                "description": "Et est est ut maiores quia praesentium illo. Officiis quaerat optio in facilis. Cumque repudiandae et amet ipsum id dolores. Non eos tenetur voluptatem similique.",
+                "price": "30.04",
+                "stock": 761,
+                "popularity": 0,
+                "created_at": "2025-01-09T12:49:24.000000Z",
+                "updated_at": "2025-01-09T12:49:24.000000Z",
+                "pivot": {
+                    "store_id": 16,
+                    "product_id": 16
+                }
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "name": "Ziemann-Corkery",
+        "address": "850 Mills Falls\nNorth Fermintown, MT 04443-2545",
+        "phone_number": "678.239.5282",
+        "created_at": "2025-01-09T12:49:24.000000Z",
+        "updated_at": "2025-01-09T12:49:24.000000Z",
+        "products": [
+            {
+                "id": 17,
+                "name": "Schimmel-Skiles",
+                "description": "Doloremque eum suscipit explicabo inventore corrupti reiciendis ab corporis. Sint repudiandae quia deserunt beatae. Perferendis iusto id quos voluptatem voluptatum enim.",
+                "price": "64.42",
+                "stock": 502,
+                "popularity": 0,
+                "created_at": "2025-01-09T12:49:24.000000Z",
+                "updated_at": "2025-01-09T12:49:24.000000Z",
+                "pivot": {
+                    "store_id": 17,
+                    "product_id": 17
+                }
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "name": "Kris-Zulauf",
+        "address": "65952 Trycia Springs\nMartinhaven, DE 11286-0052",
+        "phone_number": "820-620-7253",
+        "created_at": "2025-01-09T12:49:24.000000Z",
+        "updated_at": "2025-01-09T12:49:24.000000Z",
+        "products": [
+            {
+                "id": 18,
+                "name": "Heaney Ltd",
+                "description": "Quo aut illo qui nesciunt sit. Alias laboriosam modi hic similique voluptate quia. Omnis qui tenetur voluptatibus provident et. Ut est itaque provident inventore non quaerat.",
+                "price": "89.63",
+                "stock": 256,
+                "popularity": 0,
+                "created_at": "2025-01-09T12:49:24.000000Z",
+                "updated_at": "2025-01-09T12:49:24.000000Z",
+                "pivot": {
+                    "store_id": 18,
+                    "product_id": 18
+                }
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "name": "Reynolds Ltd",
+        "address": "313 Hammes Radial Apt. 304\nSouth Shaniyashire, NV 74204",
+        "phone_number": "+1 (947) 579-5513",
+        "created_at": "2025-01-09T12:49:24.000000Z",
+        "updated_at": "2025-01-09T12:49:24.000000Z",
+        "products": [
+            {
+                "id": 19,
+                "name": "Kub, Schimmel and Greenfelder",
+                "description": "Mollitia commodi blanditiis sit eveniet atque velit possimus. Nobis architecto sunt voluptatem est sequi eum qui. Et sunt unde magni sunt architecto ut molestias. Necessitatibus inventore commodi earum animi maiores corrupti accusantium.",
+                "price": "38.24",
+                "stock": 806,
+                "popularity": 0,
+                "created_at": "2025-01-09T12:49:24.000000Z",
+                "updated_at": "2025-01-09T12:49:24.000000Z",
+                "pivot": {
+                    "store_id": 19,
+                    "product_id": 19
+                }
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "name": "Anderson PLC",
+        "address": "9536 Luettgen Station\nMonserrateview, DE 56032",
+        "phone_number": "(458) 462-4471",
+        "created_at": "2025-01-09T12:49:24.000000Z",
+        "updated_at": "2025-01-09T12:49:24.000000Z",
+        "products": [
+            {
+                "id": 20,
+                "name": "Jenkins Inc",
+                "description": "Rerum odio libero maxime quaerat aut. Assumenda voluptatibus sit sit vel. Et iusto voluptatem est adipisci. Sequi et est mollitia vero est. Rerum est qui eum eos corporis ad.",
+                "price": "11.02",
+                "stock": 280,
+                "popularity": 0,
+                "created_at": "2025-01-09T12:49:24.000000Z",
+                "updated_at": "2025-01-09T12:49:24.000000Z",
+                "pivot": {
+                    "store_id": 20,
+                    "product_id": 20
+                }
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "name": "Weimann, Donnelly and Boehm",
+        "address": "414 Trisha Route Suite 293\nWest Lazaro, WI 16580-7126",
+        "phone_number": "484.673.3911",
+        "created_at": "2025-01-09T12:50:03.000000Z",
+        "updated_at": "2025-01-09T12:50:03.000000Z",
+        "products": []
+    },
+    {
+        "id": 22,
+        "name": "Harvey Group",
+        "address": "9906 Bennie Lakes\nNew Benjamin, GA 40005",
+        "phone_number": "+1 (606) 969-7392",
+        "created_at": "2025-01-09T12:50:03.000000Z",
+        "updated_at": "2025-01-09T12:50:03.000000Z",
+        "products": []
+    },
+    {
+        "id": 23,
+        "name": "Feest-Beer",
+        "address": "2173 Jacobs Dam Suite 012\nAlexfurt, KY 05284",
+        "phone_number": "+1-831-849-1012",
+        "created_at": "2025-01-09T12:50:03.000000Z",
+        "updated_at": "2025-01-09T12:50:03.000000Z",
+        "products": []
+    },
+    {
+        "id": 24,
+        "name": "Beatty-Tremblay",
+        "address": "3817 Cremin Mews Apt. 206\nWest Wayne, KY 50178",
+        "phone_number": "1-820-946-0619",
+        "created_at": "2025-01-09T12:50:03.000000Z",
+        "updated_at": "2025-01-09T12:50:03.000000Z",
+        "products": []
+    },
+    {
+        "id": 25,
+        "name": "Johnson, Konopelski and Buckridge",
+        "address": "7955 Bartell Turnpike Suite 160\nWest Rolandoshire, WA 00453",
+        "phone_number": "+1.318.894.4499",
+        "created_at": "2025-01-09T12:50:03.000000Z",
+        "updated_at": "2025-01-09T12:50:03.000000Z",
+        "products": []
+    },
+    {
+        "id": 26,
+        "name": "Dickens and Sons",
+        "address": "8886 Danial Stravenue Suite 807\nMedhurstbury, MN 62354",
+        "phone_number": "478.952.3837",
+        "created_at": "2025-01-09T12:50:03.000000Z",
+        "updated_at": "2025-01-09T12:50:03.000000Z",
+        "products": []
+    },
+    {
+        "id": 27,
+        "name": "Vandervort Inc",
+        "address": "9130 Nat Centers\nSchadentown, VT 87693",
+        "phone_number": "+1-351-887-7198",
+        "created_at": "2025-01-09T12:50:03.000000Z",
+        "updated_at": "2025-01-09T12:50:03.000000Z",
+        "products": []
+    },
+    {
+        "id": 28,
+        "name": "Lemke, Herman and Gerhold",
+        "address": "12788 Karlie Burgs Apt. 578\nMarvinberg, MS 31054",
+        "phone_number": "1-740-486-5258",
+        "created_at": "2025-01-09T12:50:03.000000Z",
+        "updated_at": "2025-01-09T12:50:03.000000Z",
+        "products": []
+    },
+    {
+        "id": 29,
+        "name": "Roberts PLC",
+        "address": "51459 Curt Hill\nMorarland, WV 98954-4151",
+        "phone_number": "+1-574-637-9022",
+        "created_at": "2025-01-09T12:50:03.000000Z",
+        "updated_at": "2025-01-09T12:50:03.000000Z",
+        "products": []
+    },
+    {
+        "id": 30,
+        "name": "Towne-Huels",
+        "address": "3330 Jedediah Center\nBoscoberg, GA 78377-6567",
+        "phone_number": "1-570-429-4732",
+        "created_at": "2025-01-09T12:50:03.000000Z",
+        "updated_at": "2025-01-09T12:50:03.000000Z",
+        "products": []
+    },
+    {
+        "id": 31,
+        "name": "Graham-Willms",
+        "address": "3313 Conroy Green\nSouth Mohammedmouth, RI 36160",
+        "phone_number": "+1-272-235-8808",
+        "created_at": "2025-01-09T12:50:07.000000Z",
+        "updated_at": "2025-01-09T12:50:07.000000Z",
+        "products": [
+            {
+                "id": 61,
+                "name": "McCullough, Beahan and Bartell",
+                "description": "Dolorum doloremque impedit ullam doloremque quia. Eveniet sapiente perspiciatis non voluptas veritatis exercitationem facilis sunt. Aut non a aut laboriosam accusamus. Ipsum labore aut nihil.",
+                "price": "20.52",
+                "stock": 398,
+                "popularity": 0,
+                "created_at": "2025-01-09T12:50:07.000000Z",
+                "updated_at": "2025-01-09T12:50:07.000000Z",
+                "pivot": {
+                    "store_id": 31,
+                    "product_id": 61
+                }
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "name": "Lueilwitz-Boyer",
+        "address": "153 Collier Walks Suite 169\nEast Laneyfurt, TN 32085-2864",
+        "phone_number": "1-559-874-9432",
+        "created_at": "2025-01-09T12:50:07.000000Z",
+        "updated_at": "2025-01-09T12:50:07.000000Z",
+        "products": [
+            {
+                "id": 62,
+                "name": "Quitzon-Steuber",
+                "description": "Eos eum repellat et eum incidunt. Tempora et cumque cum autem rerum ut fuga maiores.",
+                "price": "78.49",
+                "stock": 997,
+                "popularity": 0,
+                "created_at": "2025-01-09T12:50:07.000000Z",
+                "updated_at": "2025-01-09T12:50:07.000000Z",
+                "pivot": {
+                    "store_id": 32,
+                    "product_id": 62
+                }
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "name": "Koch Group",
+        "address": "2721 Lakin Haven Apt. 861\nOswaldotown, AZ 83769",
+        "phone_number": "+1-310-482-6473",
+        "created_at": "2025-01-09T12:50:07.000000Z",
+        "updated_at": "2025-01-09T12:50:07.000000Z",
+        "products": [
+            {
+                "id": 63,
+                "name": "Watsica, Fritsch and Brakus",
+                "description": "Neque in molestiae saepe qui suscipit repellendus. Reiciendis voluptas dignissimos natus quis omnis nam dignissimos. Modi aut quis earum et. Aliquid repellendus natus accusantium nam occaecati.",
+                "price": "23.79",
+                "stock": 167,
+                "popularity": 0,
+                "created_at": "2025-01-09T12:50:07.000000Z",
+                "updated_at": "2025-01-09T12:50:07.000000Z",
+                "pivot": {
+                    "store_id": 33,
+                    "product_id": 63
+                }
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "name": "Connelly-Ritchie",
+        "address": "682 Upton Mews Apt. 899\nVernachester, NE 40835",
+        "phone_number": "+1-754-982-7499",
+        "created_at": "2025-01-09T12:50:07.000000Z",
+        "updated_at": "2025-01-09T12:50:07.000000Z",
+        "products": [
+            {
+                "id": 64,
+                "name": "Hansen Ltd",
+                "description": "Numquam porro et corporis omnis error et. Maxime a enim ex quos quos ullam quis. Repellendus repellat sit ea sit sint velit eos.",
+                "price": "80.22",
+                "stock": 358,
+                "popularity": 0,
+                "created_at": "2025-01-09T12:50:07.000000Z",
+                "updated_at": "2025-01-09T12:50:07.000000Z",
+                "pivot": {
+                    "store_id": 34,
+                    "product_id": 64
+                }
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "name": "Larkin-Grady",
+        "address": "5111 Arvid Ramp\nNew Carlomouth, IL 44151-0571",
+        "phone_number": "1-863-942-1920",
+        "created_at": "2025-01-09T12:50:07.000000Z",
+        "updated_at": "2025-01-09T12:50:07.000000Z",
+        "products": [
+            {
+                "id": 65,
+                "name": "Bechtelar-Hermiston",
+                "description": "Consequatur voluptates eaque ab et expedita. Non modi aut magni. Doloribus totam neque voluptas ut dicta. Eum dolorem recusandae minus excepturi explicabo. Aperiam quo et qui qui rem vitae debitis.",
+                "price": "84.80",
+                "stock": 373,
+                "popularity": 0,
+                "created_at": "2025-01-09T12:50:07.000000Z",
+                "updated_at": "2025-01-09T12:50:07.000000Z",
+                "pivot": {
+                    "store_id": 35,
+                    "product_id": 65
+                }
+            }
+        ]
+    },
+    {
+        "id": 36,
+        "name": "Hilpert Ltd",
+        "address": "906 Hank Mall\nNorth Edwardstad, MI 52872-6247",
+        "phone_number": "1-318-591-8485",
+        "created_at": "2025-01-09T12:50:07.000000Z",
+        "updated_at": "2025-01-09T12:50:07.000000Z",
+        "products": [
+            {
+                "id": 66,
+                "name": "O'Kon, Bahringer and Pacocha",
+                "description": "Ab et hic occaecati sequi optio architecto cumque. Sint reiciendis laborum beatae consequatur.",
+                "price": "22.84",
+                "stock": 276,
+                "popularity": 0,
+                "created_at": "2025-01-09T12:50:07.000000Z",
+                "updated_at": "2025-01-09T12:50:07.000000Z",
+                "pivot": {
+                    "store_id": 36,
+                    "product_id": 66
+                }
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "name": "Schroeder, Champlin and Boehm",
+        "address": "1392 Adrian Underpass Apt. 528\nPort Haylieton, WI 99972-2595",
+        "phone_number": "(240) 966-0825",
+        "created_at": "2025-01-09T12:50:07.000000Z",
+        "updated_at": "2025-01-09T12:50:07.000000Z",
+        "products": [
+            {
+                "id": 67,
+                "name": "Beahan, Monahan and Von",
+                "description": "Aut veritatis tempora porro. Laboriosam cum ipsa fugiat porro sint soluta ab. Quae excepturi voluptatem non est et sit vero. Odit ut ea earum neque est iure laudantium.",
+                "price": "43.93",
+                "stock": 206,
+                "popularity": 0,
+                "created_at": "2025-01-09T12:50:07.000000Z",
+                "updated_at": "2025-01-09T12:50:07.000000Z",
+                "pivot": {
+                    "store_id": 37,
+                    "product_id": 67
+                }
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "name": "Jaskolski-Welch",
+        "address": "82681 Omari Court Apt. 109\nNorth Veda, ND 20950-5473",
+        "phone_number": "1-941-830-1457",
+        "created_at": "2025-01-09T12:50:07.000000Z",
+        "updated_at": "2025-01-09T12:50:07.000000Z",
+        "products": [
+            {
+                "id": 68,
+                "name": "Dicki-Torp",
+                "description": "Eos quam debitis quas ut placeat. Est error libero illum recusandae. Assumenda et qui voluptatem aut vel dicta. Neque a temporibus dolore eligendi debitis rem ab.",
+                "price": "49.49",
+                "stock": 927,
+                "popularity": 0,
+                "created_at": "2025-01-09T12:50:07.000000Z",
+                "updated_at": "2025-01-09T12:50:07.000000Z",
+                "pivot": {
+                    "store_id": 38,
+                    "product_id": 68
+                }
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "name": "Reinger, Heidenreich and Kilback",
+        "address": "96784 Yundt Village\nKalefurt, NV 69547",
+        "phone_number": "817.776.5302",
+        "created_at": "2025-01-09T12:50:07.000000Z",
+        "updated_at": "2025-01-09T12:50:07.000000Z",
+        "products": [
+            {
+                "id": 69,
+                "name": "Deckow-Littel",
+                "description": "Illum neque et nobis et eos quod. Esse corrupti ut perferendis vel. Facilis modi dignissimos voluptatem consectetur omnis tempore.",
+                "price": "31.22",
+                "stock": 176,
+                "popularity": 0,
+                "created_at": "2025-01-09T12:50:07.000000Z",
+                "updated_at": "2025-01-09T12:50:07.000000Z",
+                "pivot": {
+                    "store_id": 39,
+                    "product_id": 69
+                }
+            }
+        ]
+    },
+    {
+        "id": 40,
+        "name": "Cremin-Herman",
+        "address": "88288 Mosciski Underpass\nBomouth, TX 36764-3524",
+        "phone_number": "+1-949-805-8399",
+        "created_at": "2025-01-09T12:50:07.000000Z",
+        "updated_at": "2025-01-09T12:50:07.000000Z",
+        "products": [
+            {
+                "id": 70,
+                "name": "Altenwerth Ltd",
+                "description": "Commodi perferendis inventore qui tempore commodi ratione optio. Expedita in quis in vel. Omnis quis laudantium et sint animi et. Ratione aut quas voluptatem aut.",
+                "price": "81.63",
+                "stock": 412,
+                "popularity": 0,
+                "created_at": "2025-01-09T12:50:07.000000Z",
+                "updated_at": "2025-01-09T12:50:07.000000Z",
+                "pivot": {
+                    "store_id": 40,
+                    "product_id": 70
+                }
+            }
+        ]
+    }
+] 

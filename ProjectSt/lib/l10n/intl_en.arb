@@ -1,0 +1,130 @@
+{
+  "Welcome":"Welcome to Wasselha!",
+
+    "OrderHisT":"Order History",
+    "ActivOr":"Active Orders",
+    "NoActiveO":"There is no active orders",
+    "PastOrder":"Past Orders",
+    "NoPastOrd":"There is no past orders",
+
+    "SettingsTitle":"Settings",
+    "General":"General",
+    "Language":"Language",
+    "Theme":"Theme",
+    "hs":"Help & support",
+    "about":"About",
+
+    "WelcomeBack":"Welcome Back!",
+    "Duty":"Buckle up! We’re on delivery duty",
+    "loginEmail":"Email",
+    "loginPassword":"Password",
+    "Login":"Log in",
+    "YdntHave":"Don't have an account?",
+    "SignUp":"Sign up.",
+
+    "CreateAcc":"Create account",
+    "AlreHav":"Already have an account?",
+    "LogIn":"Log in.",
+
+    "HPSearch":"Search the market",
+    "HPH1":"Our Stores:",
+    "HPH2":"Selected Products:",
+    "HPH3":"Sales",
+    "PDC":"Add to cart",
+    "PDF":"Add to favorites",
+
+    "DrawerProflie":"Profile",
+    "DrawerCart":"Cart",
+    "DrawerFav":"Favorites",
+    "DrawerHistory":"History",
+    "DrawerSet":"Sttings",
+
+
+    "SetTitle":"Account Settings",
+    "SetFirstName":"First Name",
+    "SetLastName":"Last Name",
+    "SetEmail":"Email",
+    "SetBD":"Birth Date",
+    "SetAdress":"Address",
+    "SetGender":"Gender",
+    "SetGenderM":"Male",
+    "SetGenderF":"Female",
+    "SetCity":"City",
+    "SetCityA":"Aleppo",
+    "SetCityD":"Damascus",
+    "SetCityH":"Homs",
+    "SetCityL":"Latakia",
+    "SetSave":"Save",
+    "SetNumber":"Mobile Number",
+    "SetPassword":"Password",
+    "SetConfirmPassword":"Confirm Password",
+
+    "CartTitle":"Your Cart",
+    "CartH":"You have ",
+    "CartH1":" item in your cart",
+    "CartH2":" items in your cart",
+    "CartTotal":"Total",
+    "CartTax":"VAT included",
+    "CartCheck":"Check out",
+
+    "TrackingTitle":"Order Tracking",
+    "TrackingPlaced":"Order placed",
+    "TrackingITW":"In the way",
+    "TrackingDone":"Deliverd",
+    "TrackingDetails":"Order details",
+
+    "FavTitle":"Favorites",
+
+    "StoreSearch":"Search the store",
+
+    "Next":"Next",
+    "Previous":"Previous",
+
+
+
+
+    "Checkout":"Checkout",
+    "DeliveryTime":"Delivery Time",
+    "ASAP":"ASAP",
+    "Schd":"Scheduled Order",
+    "MyAD":"My Addresses",
+    "AddressDetails":"Add Address Details",
+    "PayWith":"Pay With",
+    "DeliveryFee":"Delivery Fee",
+    "fp":"Final Price",
+    "PAS":"Payment Successful",
+    "Oplaced":"Your order has been placed",
+    "OK":"OK",
+    "PlaceOrder":"Place Order",
+    "logout":"Log Out",
+    "loginphone":"Phone Number",
+    "LoginWemail":"Log in with email",
+    "LoginWphone":"Log in with phone number",
+
+    "NotVEmail":"Please use a valid email.",
+    "NotVPass":"Weak password.",
+    "NotMatch":"Passwords does not match.",
+    "NotVName":"Not a name.",
+    "NotVAddress":"Address cannot be empty.",
+    "NotVBD":"YYYY/MM/DD",
+
+    "fillAll":"Please fill in all fields.",
+    "privacy" : "Privacy",
+    "Passwordch":"Change Password",
+
+    "changeTitle":"Change Password",
+"CurrentPassword":"Current Password.",
+    "PleaseE" : "Please enter your current password",
+    "NewPassword":"New Password",
+    "PleaseEtn":"Please enter a new password.",
+    "Password6LETTER" : "Password must be at least 6 characters",
+    "ConfirmNewPassword":"Confirm New Password",
+    "Pleaseconfirmyournewpassword":"Please confirm your new password",
+    "Passwordsdonotmatch":"Passwords do not match.",
+        "ChangePassword" : "Change Password",
+
+"SetNewPassword":"New Password",
+"SeTConfPassword":"Confirm New Password",
+"SetOldPassword":"Old Password"
+
+  }
